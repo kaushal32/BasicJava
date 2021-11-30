@@ -17,4 +17,3 @@ public class Threading {
 // it is known as functional interface
 //one method
 // run() method
-// lambda expression
